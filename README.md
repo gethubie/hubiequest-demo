@@ -3,7 +3,7 @@
 Turn goals into daily quests.
 Build habits.
 Grow your dream.
-
+live link : https://hubie-quest.replit.app
 This is the public shipping demo for HubieQuest (Dream & Grow MVP).
 
 ## What It Does
@@ -18,5 +18,5 @@ This is the public shipping demo for HubieQuest (Dream & Grow MVP).
 
 HubieQuest is building belief infrastructure.
 For the People, For Our Future.
-
+feedback link: kevinc.hubietech1@gmail.com ?subject=HubieQuest%20Demo%20Feedback
 Built by Kevin Cameron.
